@@ -1,0 +1,8 @@
+node_modules/
+dist/
+dist-single/
+artifact/
+test-results/
+playwright-report/
+*.log
+release/
